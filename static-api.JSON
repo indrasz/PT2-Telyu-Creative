@@ -1,5 +1,14 @@
 [
-    {"nama": "design", "imageId": "design"},
-    {"nama": "mainan", "imageId": "mainan"},
-    {"nama": "backsound", "imageId": "backsound"}
+    {
+        "nama": "design", 
+        "imageId": "design"
+    },
+    {
+        "nama": "mainan", 
+        "imageId": "mainan"
+    },
+    {
+        "nama": "backsound", 
+        "imageId": "backsound"
+    }
 ]
